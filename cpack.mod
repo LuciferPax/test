@@ -1,2 +1,2 @@
-meta.NAME="testing"
-meta.VERSION="2.3.0"
+meta.name="testing"
+meta.version="2.3.0"
